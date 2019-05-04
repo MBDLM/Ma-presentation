@@ -32,7 +32,9 @@ h1 /* Utilisation de la police qu'on vient de définir sur les titres */
     font-family: '3dumbregular', Verdana, Arial, Impact, "Arial Black", sans-serif;
     font-size: 3.2em;
     border: 4px green solid;
-	border-radius: 20px;
+    border-radius: 20px;
+    margin: auto;
+    width: 30%;
 }
 
 .photo
