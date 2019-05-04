@@ -1,3 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	 <meta charset="UTF-8">
+   <link rel="stylesheet" href="style.css" />
+	 <title>CV en ligne Cesar Parra</title>
+  </head>
+
+  <body>
+    <h1>Cesar Parra</h1>
+    <p class="description">fou heureux
+	 <br/><br/>
+   
+    <a href="foto_cesar.jpg"><img src="foto_cesar_min.jpg" alt="Photo de Cesar Parra" title="Cliquez pour agrandir" class="photo"/></a>
+    </p>
+    <h2>Mon expérience</h2>
+    <ul>
+      <li><strong>Du 2002 à 2011</strong> Commerçant indépendant, vente d'articles autour du bien-être</li>
+      <li><strong>Du 2011 à 2017</strong> Chef d'entreprise Athenor, dans le domaine du  bien-être : bains de vapeur vers la purification de l’Etre humain</li>
+      <li><strong>En 2019</strong> Stage chez CREATISWEB</li>
+    </ul>
+    <h2>Mes compétences</h2>
+    <ul>
+      <li>Connaissance des bases de la programmation</li>
+      <li>Initiation aux langages Python, HTML et Wolfram Language</li>
+      <li>Connaitre et utiliser la ligne de commande sous Windows (batch)</li>
+      <li>Installer un OS (système d’explotation) Windows et Raspbian</li>
+      <li>Créer des visuels avec Canva (cartes de visite et logos)</li>
+    </ul>
+    <h2>Ma formation</h2>
+    <p>Alors là c'est simple... j'ai tout appris dans le CEFIM et OpenClassrooms !</p>
+  </body>
+</html>
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cesarcefim/hello-word/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
