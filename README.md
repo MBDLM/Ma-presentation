@@ -1,5 +1,4 @@
-<html>
-  <head>
+<head>
 	 <meta charset="UTF-8">
    <link rel="stylesheet" href="style.css" />
 	 <title>CV en ligne Cesar Parra</title>
@@ -29,7 +28,6 @@
     <h2>Ma formation</h2>
     <p>Alors là c'est simple... j'ai tout appris dans le CEFIM et OpenClassrooms !</p>
   </body>
-</html>
 
 
 
