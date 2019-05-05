@@ -10,7 +10,7 @@ h2
 
 body
 {
-	background: url("fondoCV.jpg") scroll no-repeat center bottom;
+	background: url("fondoCV.jpg") scroll repeat center bottom;
 
 }
 
